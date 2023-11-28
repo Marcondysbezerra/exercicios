@@ -11,7 +11,6 @@
     <li>Exercício com String</li>
     <li>Exercícios Arquivos</li>
     <li>Exercícios Classes</li>
-    <li>Exercícios Classes</li>
     <li>Lista Exercícios Projetos</li>
 </ul>
 
