@@ -2,6 +2,7 @@
 
 
 <h2>Conteúdo:</h2>
+
 <ul>
     <li>Estrutura Sequencial</li>
     <li>Estrutura de Decisão</li>
@@ -14,4 +15,4 @@
     <li>Lista Exercícios Projetos</li>
 </ul>
 
-[ Acesse a lista de questões aqui]("https://wiki.python.org.br/ListaDeExercicios")
+Acesse a lista de questões [aqui](https://wiki.python.org.br/ListaDeExercicios)
